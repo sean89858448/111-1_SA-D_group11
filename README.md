@@ -39,16 +39,16 @@
     |  9 | 系統測試 | 7 | 6 |
     | 10 | 使用者訓練 | 7 | 6 |
     | 11 | 使用者測試 | 7 | 8 |
-    
+   
   
   
 **(1)PERT/CPM圖**
 ---
 [PERT/CPM](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)
 ![PERT](PERT.jpg "PERT")
-
+  
 ---
-
+  
 ```mermaid
 gantt
     title 甘特圖
