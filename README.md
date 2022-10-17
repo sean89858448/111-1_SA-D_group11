@@ -45,7 +45,7 @@
 **(1)PERT/CPM圖**
 ---
 [PERT/CPM](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)
-![![來源]([[PERT/CPM][https://hackmd.io/jY082EDrRpuh1TxDzlBrEA?view](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)))](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)
+![PERT](PERT.jpg "PERT")
 
 ---
 
