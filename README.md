@@ -39,9 +39,12 @@
     |  9 | 系統測試 | 7 | 6 |
     | 10 | 使用者訓練 | 7 | 6 |
     | 11 | 使用者測試 | 7 | 8 |
-
+    
+  
+  
+**(1)PERT/CPM圖**
 ---
-
+[PERT/CPM](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)
 ![![來源]([[PERT/CPM][https://hackmd.io/jY082EDrRpuh1TxDzlBrEA?view](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)))](https://hackmd.io/@wwXnxhdVTL6v14eGTSBJdg/BJaUE69Qs)
 
 ---
