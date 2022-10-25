@@ -107,7 +107,7 @@ gantt
 
 # 功能分解表
 
-  ![FDDT](https://user-images.githubusercontent.com/113968282/197533557-36733d9f-87ee-447-9b53-8f43afa965.png)
+  ![FDD](https://user-images.githubusercontent.com/113968282/197533557-36733d9f-87ee-447-9b53-8f43afa965.png)
 
 
 
@@ -118,11 +118,11 @@ gantt
 # 案例圖及案例說明
 ## 案例圖
 
-   ![USE CASE](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
+   ![USE CASE1](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
    
-   ![USE CASE](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
+   ![USE CASE2](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
    
-   ![USE CASE](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
+   ![USE CASE3](https://user-images.githubusercontent.com/73731793/197538691-6e00998d-05a1-435b-b406-ba2691dac2.png)
 
 
 # Figma
