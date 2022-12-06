@@ -107,7 +107,7 @@ gantt
 
 # 功能分解表
 
-  ![FDD](https://user-images.githubusercontent.com/113968282/197533557-36733d9f-87ee-447-9b53-8f43afa965.png)
+  ![FDD](pic2.png)
 
 
 
