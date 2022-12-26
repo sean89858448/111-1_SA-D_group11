@@ -166,3 +166,26 @@ gantt
 ---
 ### 繪製DFD圖0 (須至少有三項以上的程序)
 ![DFD0](pic4.png)  
+
+##week8
+
+## UML類別圖
+![UML](pic5.png "UML")
+
+## 使用案例1
+### 循序圖
+![sequence_diagram](pic6.png "sequence_diagram")
+### 活動圖
+![act_diagram](pic7.png "act_diagram")
+
+## 使用案例2
+### 循序圖
+![sequence_diagram](循序圖2.png "sequence_diagram")
+### 活動圖
+![act_diagram](活動圖2.png "act_diagram")
+
+## 使用案例3
+### 循序圖
+![sequence_diagram](循序圖3.png "sequence_diagram")
+### 活動圖
+![act_diagram](活動圖3.png "act_diagram")
