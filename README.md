@@ -186,6 +186,6 @@ gantt
 
 ## 使用案例3
 ### 循序圖
-![sequence_diagram](循序圖3.png "sequence_diagram")
+![sequence_diagram](pic10.png "sequence_diagram")
 ### 活動圖
-![act_diagram](活動圖3.png "act_diagram")
+![act_diagram](pic11.png "act_diagram")
