@@ -153,7 +153,7 @@ gantt
 | 後置條件 | 查看設備位置 |
 
 # Figma
-  *  [Figma網址]([https://www.figma.com/file/sNYb4JDbAHiJrGlYwz0DTv/%E5%AF%B5%E7%89%A9%E5%8D%94%EB1?node-id=0%3A1](https://www.figma.com/file/BtX1cha3D8xi7A3DT5QmYy/%E6%99%BA%E6%85%A7%E5%80%89%E5%84%B2%E7%B3%BB%E7%B5%B1?node-id=0%3A1&t=1uQND3Ncfn0iSUmi-1))
+  *  [Figma網址](https://www.figma.com/file/BtX1cha3D8xi7A3DT5QmYy/%E6%99%BA%E6%85%A7%E5%80%89%E5%84%B2%E7%B3%BB%E7%B5%B1?node-id=0%3A1&t=1uQND3Ncfn0iSUmi-1)
 
 ## WEEK7小組作業: 請各組新增 以下兩項工作
 1.繪出系統環境圖 (DFD)
