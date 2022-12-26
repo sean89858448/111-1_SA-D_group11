@@ -180,9 +180,9 @@ gantt
 
 ## 使用案例2
 ### 循序圖
-![sequence_diagram](循序圖2.png "sequence_diagram")
+![sequence_diagram](pic8.png "sequence_diagram")
 ### 活動圖
-![act_diagram](活動圖2.png "act_diagram")
+![act_diagram](pic9.png "act_diagram")
 
 ## 使用案例3
 ### 循序圖
