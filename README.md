@@ -1,5 +1,6 @@
 # 111-1_SA-D_group11  
 
+##小組作業 1: 
 ---  
 
 ### 組員名單：  
@@ -53,8 +54,6 @@
 gantt
     title 甘特圖
 
-    
-
     section 1.擬定計畫
     4       :a1,2022-10-11, 4d
    
@@ -90,7 +89,7 @@ gantt
    
 ```
 
-## WEEK6小組作業: 
+## 小組作業2： 
 
 ## 功能性需求與非功能性需求
   
@@ -155,10 +154,9 @@ gantt
 # Figma
   *  [Figma網址](https://www.figma.com/file/BtX1cha3D8xi7A3DT5QmYy/%E6%99%BA%E6%85%A7%E5%80%89%E5%84%B2%E7%B3%BB%E7%B5%B1?node-id=0%3A1&t=1uQND3Ncfn0iSUmi-1)
 
-## WEEK7小組作業: 請各組新增 以下兩項工作
-1.繪出系統環境圖 (DFD)
+---
 
-2.繪製DFD 圖0 (須至少有三項以上的程序)
+## 小組作業3 : 
 
 ---
 ### 繪出系統環境圖 (DFD)
@@ -167,12 +165,14 @@ gantt
 ### 繪製DFD圖0 (須至少有三項以上的程序)
 ![DFD0](pic4.png)  
 
-##week8
+---
+
+## 小組作業4：
 
 ## UML類別圖
 ![UML](pic5.png "UML")
 
-## 使用案例1
+## 使用案例1 
 ### 循序圖
 ![sequence_diagram](pic6.png "sequence_diagram")
 ### 活動圖
@@ -189,3 +189,19 @@ gantt
 ![sequence_diagram](pic10.png "sequence_diagram")
 ### 活動圖
 ![act_diagram](pic11.png "act_diagram")
+
+---
+
+## 小組作業5
+
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/57654809/205289494-a84d0f88-2a9a-40b8-811e-77278ab15afa.png">
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/57654809/205289444-8ec9b21a-edc7-4141-975c-40859db12917.png">
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/57654809/205289533-985960df-3d37-43fb-8028-d119d1a87f57.png">
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/57654809/205289565-e0adb690-b3fb-4163-a59c-03a41cf7f7d2.png">
+
+
+
+## 小組作業6
+---
+
+![image](https://user-images.githubusercontent.com/57654809/205296551-68b95467-31c6-4571-8fbd-070a33249830.png)
