@@ -203,4 +203,4 @@ gantt
 ## 小組作業6
 ---
 
-![image](https://user-images.githubusercontent.com/57654809/20296551-68b95467-31c6-4571-8fbd-070a33249830.png)
+![ ](pic15.png " ")
